@@ -1,0 +1,72 @@
+
+
+body {
+    background-color: #f3f8fc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.customer-container, .form-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 1px solid #e0e8f0;
+}
+
+.table-light-blue {
+    background-color: #cde4fa;
+}
+
+h2 {
+    color: #0d6efd;
+    letter-spacing: 0.5px;
+}
+
+.btn-add {
+    background-color: #0d6efd;
+    border: none;
+}
+
+.btn-add:hover {
+    background-color: #0b5ed7;
+}
+
+.btn-save {
+    background-color: #198754;
+    border: none;
+}
+
+.btn-save:hover {
+    background-color: #157347;
+}
+
+.btn-cancel {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-cancel:hover {
+    background-color: #5c636a;
+}
+
+.btn-warning {
+    background-color: #f6c23e !important;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #e74a3b !important;
+    border: none;
+}
+
+.btn:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+    transition: all 0.2s ease-in-out;
+}
+
+.table th, .table td {
+    vertical-align: middle !important;
+}
+
+.card {
+    border: 1px solid #d3e2f3;
+}
